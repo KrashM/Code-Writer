@@ -1,0 +1,10 @@
+using System;
+private double Myvar;
+public int Hi() {
+
+
+}
+public class Hello {
+
+
+}
