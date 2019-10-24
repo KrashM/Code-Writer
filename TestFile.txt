@@ -1,10 +1,25 @@
 using System;
-private double Myvar;
-public int Hi() {
-
-
-}
 public class Hello {
+	private double Liuben() {
 
 
+	}
+	public bool test;
+	public void Hristo() {
+		bool flag;
+		int test;
+	
+	
+	
+	}
+	private int Karlos() {
+	
+	
+	
+	}
+	bool Stoqn() {
+	
+	
+	
+	}
 }
